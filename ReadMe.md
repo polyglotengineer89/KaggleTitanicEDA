@@ -29,3 +29,5 @@ Using the patterns you find in the train.csv data, predict whether the other 418
 
 Check out the “Data” tab to explore the datasets even further. Once you feel you’ve created a competitive model, submit it to Kaggle to see where your model stands on our leaderboard against other Kagglers.
 
+#### Refference:<br>
+https://www.kaggle.com/c/titanic/overview
